@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cr3do
-- 👀 I’m interested in python, web development and ethical hacking
+- 👀 I’m interested in competetive programming
 
 
 <!---
