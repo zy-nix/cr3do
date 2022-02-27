@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cr3do
+- 👋 Hi, I’m @zynix
 - 👀 I’m interested in competetive programming
 
 
